@@ -1,0 +1,6 @@
+[submodule "ms-processos"]
+	path = ms-processos
+	url = https://github.com/LuscaDevs/ms-processos
+[submodule "ms-email"]
+	path = ms-email
+	url = https://github.com/LuscaDevs/ms-email
